@@ -30,13 +30,13 @@ Currently, my focus is on learning fundamental computing concepts rather than st
 
 ## 📫 Contact
 <p>
-    <a href="https://wa.me/123456789">
+    <a href="https://wa.me/+244946955433">
         <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="width: 60px;"/>
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:eufrasio.dev@gmail.com">
         <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" style="width: 60px;"/>
     </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <a href="https://www.linkedin.com/in/quixindo/">
         <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" style="width: 60px;"/>
     </a>
 </p>
