@@ -24,6 +24,8 @@ Hello! My name is Eufrásio Quixindo, born on September 30, 2002. I have complet
 - **Kotlin**
 - **Spring Boot**
 - **CI/CD**
+- **Testing**
+- **SOLID Principles**
 
 ## 🌱 Objectives
 Currently, my focus is on learning fundamental computing concepts rather than sticking to a single language. I believe that a solid foundation in computing principles will allow for greater flexibility and adaptability in the tech field.
