@@ -11,21 +11,38 @@ Help me get a job!!!
 Hello! My name is Eufrásio Quixindo, born on September 30, 2002. I have completed my high school education in Computer Science and have since been delving into various technologies and computing concepts.
 
 ## ⚡ Skills
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **Java** (currently studying)
-- **Data Structures and Algorithms** (currently studying)
-- **Object-Oriented Programing (OOP)** (currently studying)
+
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=algolia&logoColor=white" alt="Data Structures" />
+    <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=object-rocket&logoColor=white" alt="OOP" />
+</p>
 
 ## 👀 I’m interested in
-- **Go**
-- **Angular**
-- **Kotlin**
-- **Spring Boot**
-- **CI/CD**
-- **Testing**
-- **SOLID Principles**
+
+<div style="display: flex; justify-content: space-around;">
+  <div style="flex: 1; padding: 10px;">
+    <h2>Interests</h2>
+    <ul>
+      <li>Go</li>
+      <li>Angular</li>
+      <li>Kotlin</li>
+      <li>CI/CD</li>
+      <li>Testing</li>
+      <li>SOLID Principles</li>
+    </ul>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <h2>GitHub Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=QuixindoDev&show_icons=true&theme=radical" alt="Eufrásio's GitHub Stats" style="max-width: 100%;" />
+  </div>
+</div>
 
 ## 🌱 Objectives
 Currently, my focus is on learning fundamental computing concepts rather than sticking to a single language. I believe that a solid foundation in computing principles will allow for greater flexibility and adaptability in the tech field.
