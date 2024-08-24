@@ -1,61 +1,45 @@
-<!---
-Help me get a job!!!
---->
-
-<h1 align="center">
-    Software Developer              
-    <img src="https://img.icons8.com/?size=100&id=zEG60KPa4tvj&format=png&color=000000" alt="Angola Flag" style="width: 50px; vertical-align: middle;"/>
-</h1>
-
-## 😄 About Me
-Hello! My name is Eufrásio Quixindo, born on September 30, 2002. I have completed my high school education in Computer Science and have since been delving into various technologies and computing concepts.
-
-## ⚡ Skills
+<h1 align="center">Hi! 👋 I'm Eufrásio Quixindo 🇦🇴 <br/>Software Developer </h1> 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
 </p>
+
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+-->
+
+## 🛠 &nbsp;Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Data%20Structures-4CAF50?style=for-the-badge&logo=algolia&logoColor=white" alt="Data Structures" />
-    <img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=object-rocket&logoColor=white" alt="OOP" />
-</p>
+<a href="https://github.com/al1neferreira">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuixindoDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuixindoDev&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
+</a>
+</p>  
+  
+  ### 🤝🏻 &nbsp;Connect with Me
 
-## 👀 I’m interested in
-
-<div style="display: flex; justify-content: space-around;">
-  <div style="flex: 1; padding: 10px;">
-    <h2>Interests</h2>
-    <ul>
-      <li>Go</li>
-      <li>Angular</li>
-      <li>Kotlin</li>
-      <li>CI/CD</li>
-      <li>Testing</li>
-      <li>SOLID Principles</li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding: 10px;">
-    <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=QuixindoDev&show_icons=true&theme=radical" alt="Eufrásio's GitHub Stats" style="max-width: 100%;" />
-  </div>
-</div>
-
-## 🌱 Objectives
-Currently, my focus is on learning fundamental computing concepts rather than sticking to a single language. I believe that a solid foundation in computing principles will allow for greater flexibility and adaptability in the tech field.
-
-## 📫 Contact
-<p>
-    <a href="https://wa.me/+244946955433">
-        <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp" style="width: 60px;"/>
-    </a>
-    <a href="mailto:eufrasio.dev@gmail.com">
-        <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Email" style="width: 60px;"/>
-    </a>
-    <a href="https://www.linkedin.com/in/quixindo/">
-        <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" style="width: 60px;"/>
-    </a>
-</p>
+<p align="center">
+<a href="https://www.linkedin.com/in/quixindo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:eufrasio.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
