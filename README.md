@@ -3,7 +3,7 @@ Help me get a job!!!
 --->
 
 <h1 align="center">
-    Junior Software Engineer               
+    Software Developer              
     <img src="https://img.icons8.com/?size=100&id=zEG60KPa4tvj&format=png&color=000000" alt="Angola Flag" style="width: 50px; vertical-align: middle;"/>
 </h1>
 
