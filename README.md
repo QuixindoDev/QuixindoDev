@@ -1,8 +1,8 @@
-<h1 align="center">Hi! 👋 I'm Eufrásio Quixindo 🇦🇴 <br/>Software Developer </h1> 
-
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
 </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=Oi!+👋;Meu+nome+é+Eufrásio+Quixindo🇦🇴;Backend+Developer;Java:%29)](https://git.io/typing-svg)
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -18,7 +18,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/al1neferreira">
+<a href="https://github.com/QuixindoDev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuixindoDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuixindoDev&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
 </a>
