@@ -24,7 +24,7 @@
 </a>
 </p>  
   
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Text me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/quixindo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
