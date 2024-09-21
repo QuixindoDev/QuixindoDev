@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=Oi!+👋;Meu+nome+é+Eufrásio+Quixindo🇦🇴;Backend+Developer;Java:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c0c0c0&size=35&center=true&vCenter=true&width=1000&lines=Oi!+👋;Meu+nome+é+Eufrásio+Quixindo🇦🇴;Software+Engineer:%29)](https://git.io/typing-svg)
 
 ## 🛠 &nbsp;Tech Stack
 
