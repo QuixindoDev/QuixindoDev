@@ -2,29 +2,30 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
 </p>
 
-<h1 align="center" color="#c0c0c0">Eufrásio Quixindo  🇦🇴</h1>
+<h1 align="center">Eufrásio Quixindo  🇦🇴</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f0f0&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f0f0&size=35&center=true&vCenter=true&width=1000&lines=BACKEND+|+MOBLIE)](https://git.io/typing-svg)
 
 ## 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-02569B?style=for-the-badge&logo=uml&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/QuixindoDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuixindoDev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuixindoDev&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
-</a>
-</p>  
+## ⚙️ &nbsp;GitHub Analytics 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=QuixindoDev&show_icons=true&count_private=true&hide_border=true&title_color=f0f0f0&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eufrásio Quixindo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuixindoDev&layout=compact&hide_border=true&title_color=f0f0f0f0&text_color=00bfbf&bg_color=0d1117" />
+</div>
   
 ### 🤝🏻 &nbsp;Text me
 
