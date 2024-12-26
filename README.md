@@ -4,8 +4,7 @@
 
 <h1 align="center">Eufrásio Quixindo  🇦🇴</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f0f0&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer+:%29)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f0f0&size=35&center=true&vCenter=true&width=1000&lines=BACKEND+|+MOBLIE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f0f0&size=35&center=true&vCenter=true&width=1000&lines=Software+Engineer+:\))](https://git.io/typing-svg)
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -20,12 +19,15 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## ⚙️ &nbsp;GitHub Analytics 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=QuixindoDev&show_icons=true&count_private=true&hide_border=true&title_color=f0f0f0&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eufrásio Quixindo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuixindoDev&layout=compact&hide_border=true&title_color=f0f0f0f0&text_color=00bfbf&bg_color=0d1117" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JsExpertCoder&theme=dark" alt="JsExpertCoder"/></p>
 </div>
+
   
 ### 🤝🏻 &nbsp;Text me
 
