@@ -25,10 +25,9 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=QuixindoDev&show_icons=true&count_private=true&hide_border=true&title_color=f0f0f0&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eufrásio Quixindo github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuixindoDev&layout=compact&hide_border=true&title_color=f0f0f0f0&text_color=00bfbf&bg_color=0d1117" />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JsExpertCoder&theme=dark" alt="JsExpertCoder"/></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QuixindoDev&theme=dark" alt="Eufrásio Quixindo streak stats"/></p>
 </div>
 
-  
 ### 🤝🏻 &nbsp;Text me
 
 <p align="center">
